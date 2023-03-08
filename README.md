@@ -1,2 +1,1 @@
-# RIS
-simple inventory management system.
+Just a simple inventory management system I had done from my internship!
